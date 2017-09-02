@@ -1,0 +1,1 @@
+This is a maxscript to export models from the portable Metal Gear Solid Games, this includes Peace Walker, Portable Ops and Acid. It extracts the mesh, bones, skinning information. It will automatically apply textures but you must have them in a folder named textures within the same directory as the mdp file. The textures must also be named their hashed filename.
